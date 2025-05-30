@@ -1,7 +1,7 @@
 class WelleIo < Formula
   desc "DAB/DAB+ Software Radio"
   homepage "https://www.welle.io"
-  url "https://github.com/AlbrechtL/welle.io/archive/v2.4.tar.gz"
+  url "https://github.com/OLFDB/welle.io/archive/refs/heads/master.zip"
   sha256 "7c2a2ff7b6e0780aee8a30a2beedfa831ce67683e1d076a73cebc897637d0202"
   license "GPL-2.0-or-later"
   head "https://github.com/AlbrechtL/welle.io.git"
